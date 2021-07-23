@@ -1,1 +1,1 @@
-# ML-AI-from-scratch
+# Machine Learning programs from scratch
