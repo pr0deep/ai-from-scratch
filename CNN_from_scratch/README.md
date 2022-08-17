@@ -9,5 +9,4 @@ Here's an example model trained for 50k images with 3 epochs(peak:95% ..could ac
 
 ![Trained model](/CNN_from_scratch/model_trained.PNG)
 
-<h3>(I beleive that Pooling reduces accuracy.. this is anyways a 28x28 layer..So..yeah..NO POOLING)
 
